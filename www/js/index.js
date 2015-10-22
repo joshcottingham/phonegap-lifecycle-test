@@ -6,4 +6,4 @@ window.localStorage.setItem(key, value);
 var key = "pen";
 var value = window.localStorage.getItem(key);
 
-alert(key);
+alert(value);
